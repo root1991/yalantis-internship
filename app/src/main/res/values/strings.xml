@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="text_created">Created</string>
+    <string name="text_date_created">February 25, 2016</string>
+    <string name="text_utilities">Public utilities</string>
+    <string name="text_in_progress">In progress</string>
+    <string name="text_registered">Registered</string>
+    <string name="text_date_registered">February 26, 2016</string>
+    <string name="text_solve">Solve until</string>
+    <string name="text_date_solve">February 29, 2016</string>
+    <string name="text_responsible">Responsible</string>
+    <string name="text_tatooine_mvk">Tatooine MVK</string>
+    <string name="text_description">Open gateway (near billboard), area of turn of 18th and 19th speeders on Kenobi Prospect from Coruscant road.</string>
+    <string-array name="urls_array">
+        <item>http://img2.wikia.nocookie.net/__cb20070317195216/starwars/nl/images/6/6e/Vos_Gesal_Street.jpg</item>
+        <item>http://vignette2.wikia.nocookie.net/starwars/images/0/0b/Underlevelscene.JPG/revision/latest?cb=20060712233456</item>
+        <item>http://vignette3.wikia.nocookie.net/starwars/images/4/4a/Coruscant_Underworld_concept_art.jpg/revision/latest?cb=20130523085925</item>
+    </string-array>
+</resources>
